@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Slideshow>
+  <ID>414888</ID>
+  <Title>Groovy And Grails JUG Padova</Title>
+  <Description>Presentation of Groovy and Grails made at the JUG Padova on 17 May 2008</Description>
+  <Status>2</Status>
+  <Username>john.leach</Username>
+  <URL>http://www.slideshare.net/john.leach/groovy-and-grails-jug-padova</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/groovyandgrails-1211192948866493-8-thumbnail.jpg?1211187157</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/groovyandgrails-1211192948866493-8-thumbnail-2.jpg?1211187157</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse414888&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=groovyandgrails-1211192948866493-8&amp;stripped_title=groovy-and-grails-jug-padova&amp;userName=john.leach&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse414888&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=groovyandgrails-1211192948866493-8&amp;stripped_title=groovy-and-grails-jug-padova&amp;userName=john.leach&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/john.leach/groovy-and-grails-jug-padova&quot; title=&quot;Groovy And Grails JUG Padova&quot;&gt;Groovy And Grails JUG Padova&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/john.leach&quot;&gt;John Leach&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Mon May 19 03:29:54 -0500 2008</Created>
+  <Updated>Mon May 19 03:52:37 -0500 2008</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl></DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>123456</UserID>
+  <PPTLocation>abcdef-1234-pptloc</PPTLocation>
+  <StrippedTitle>groovy-and-grails-jug-padova</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="1">grails</Tag>
+    <Tag Count="1" Owner="1">groovy</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>65</NumDownloads>
+  <NumViews>2723</NumViews>
+  <NumComments>3</NumComments>
+  <NumFavorites>190</NumFavorites>
+  <NumSlides>37</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="1">970255</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">414891</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">970257</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">970256</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">414892</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">964969</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">2777818</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">1204037</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">2063957</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">3836839</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>

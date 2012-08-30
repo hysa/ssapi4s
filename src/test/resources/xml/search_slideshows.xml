@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Slideshows>
+  <Meta>
+    <Query>scala</Query>
+    <ResultOffset>3</ResultOffset>
+    <NumResults>12</NumResults>
+    <TotalResults>4650</TotalResults>
+  </Meta>
+<Slideshow>
+  <ID>966972</ID>
+  <Title>Pragmatic Real-World Scala (short version)</Title>
+  <Description>Short (45 min) version of my &amp;rsquo;Pragmatic Real-World Scala&amp;rsquo; talk. Discussing patterns and idioms discovered during 1.5 years of building a production system for finance; portfolio management and simulation.</Description>
+  <Status>2</Status>
+  <Username>jboner</Username>
+  <URL>http://www.slideshare.net/jboner/pragmatic-real-world-scala-45-min-presentation</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/pragmaticrealworldscalajfokus2009-1233251076441384-2-thumbnail.jpg?1233297947</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/pragmaticrealworldscalajfokus2009-1233251076441384-2-thumbnail-2.jpg?1233297947</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse966972&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=pragmaticrealworldscalajfokus2009-1233251076441384-2&amp;stripped_title=pragmatic-real-world-scala-45-min-presentation&amp;userName=jboner&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse966972&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=pragmaticrealworldscalajfokus2009-1233251076441384-2&amp;stripped_title=pragmatic-real-world-scala-45-min-presentation&amp;userName=jboner&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jboner/pragmatic-real-world-scala-45-min-presentation&quot; title=&quot;Pragmatic Real-World Scala (short version)&quot;&gt;Pragmatic Real-World Scala (short version)&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jboner&quot;&gt;Jonas Bon&#233;r&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Thu Jan 29 11:50:57 -0600 2009</Created>
+  <Updated>Fri Jan 30 00:45:47 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/pragmaticrealworldscalajfokus2009-1233251076441384-2.pdf?response-content-disposition=attachment&amp;Signature=XXF8GquDxlQtHu99srUDWSkFjHc%3D&amp;Expires=1346278470&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>3693668</ID>
+  <Title>Building Distributed Systems in Scala</Title>
+  <Description>&amp;quot;In this session, Twitter engineer Alex Payne will explore how the popular social messaging service builds scalable, distributed systems in the Scala programming language. Since 2008, Twitter has moved the development of its most critical systems to Scala, which blends object-oriented and functional programming with the power, robust tooling, and vast library support of the Java Virtual Machine. Find out how to use the Scala components that Twitter has open sourced, and learn the patterns they employ for developing core infrastructure components in this exciting and increasingly popular language.&amp;quot;</Description>
+  <Status>2</Status>
+  <Username>al3x</Username>
+  <URL>http://www.slideshare.net/al3x/building-distributed-systems-in-scala</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/phillyetepayne-100411190225-phpapp01-thumbnail.jpg?1271051723</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/phillyetepayne-100411190225-phpapp01-thumbnail-2.jpg?1271051723</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse3693668&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=phillyetepayne-100411190225-phpapp01&amp;stripped_title=building-distributed-systems-in-scala&amp;userName=al3x&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse3693668&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=phillyetepayne-100411190225-phpapp01&amp;stripped_title=building-distributed-systems-in-scala&amp;userName=al3x&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x/building-distributed-systems-in-scala&quot; title=&quot;Building Distributed Systems in Scala&quot;&gt;Building Distributed Systems in Scala&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x&quot;&gt;Alex Payne&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sun Apr 11 19:02:06 -0500 2010</Created>
+  <Updated>Mon Apr 12 00:55:23 -0500 2010</Updated>
+  <Language>en</Language>
+  <Format>key</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/phillyetepayne-100411190225-phpapp01.key?response-content-disposition=attachment&amp;Signature=QeLuhwvT5M2fjoJJV77wmdOcq6E%3D&amp;Expires=1346278470&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>1234062</ID>
+  <Title>Why Scala for Web 2.0?</Title>
+  <Description>A presentation to Web 2.0 Expo San Francisco, arguing for Scala as an ideal language for social web businesses.</Description>
+  <Status>2</Status>
+  <Username>al3x</Username>
+  <URL>http://www.slideshare.net/al3x/why-scala-for-web-20</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-090401110506-phpapp01-thumbnail.jpg?1238733653</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-090401110506-phpapp01-thumbnail-2.jpg?1238733653</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse1234062&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-090401110506-phpapp01&amp;stripped_title=why-scala-for-web-20&amp;userName=al3x&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse1234062&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-090401110506-phpapp01&amp;stripped_title=why-scala-for-web-20&amp;userName=al3x&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x/why-scala-for-web-20&quot; title=&quot;Why Scala for Web 2.0?&quot;&gt;Why Scala for Web 2.0?&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x&quot;&gt;Alex Payne&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Wed Apr 01 11:05:04 -0500 2009</Created>
+  <Updated>Thu Apr 02 23:40:53 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>zip</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scala-090401110506-phpapp01.zip?response-content-disposition=attachment&amp;Signature=eL%2FXW2XOmKrsBPisOLiMAbjtMwA%3D&amp;Expires=1346278470&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>585572</ID>
+  <Title>Why Scala?</Title>
+  <Description>Why Scala? How a serial language enthusiast settled down with a nice Swiss language.</Description>
+  <Status>2</Status>
+  <Username>al3x</Username>
+  <URL>http://www.slideshare.net/al3x/why-scala-presentation</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1220722512764902-8-thumbnail.jpg?1220799156</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1220722512764902-8-thumbnail-2.jpg?1220799156</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse585572&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1220722512764902-8&amp;stripped_title=why-scala-presentation&amp;userName=al3x&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse585572&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1220722512764902-8&amp;stripped_title=why-scala-presentation&amp;userName=al3x&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x/why-scala-presentation&quot; title=&quot;Why Scala?&quot;&gt;Why Scala?&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x&quot;&gt;Alex Payne&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sat Sep 06 10:36:21 -0500 2008</Created>
+  <Updated>Sun Sep 07 09:52:36 -0500 2008</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scala-1220722512764902-8.pdf?response-content-disposition=attachment&amp;Signature=snpcjGTJXrMx0SCp4AE%2BIrAJrWE%3D&amp;Expires=1346278470&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>1013261</ID>
+  <Title>Scala Talk at FOSDEM 2009</Title>
+  <Description>A talk on Scala given Feb 6th at FOSDEM 2009.</Description>
+  <Status>2</Status>
+  <Username>Odersky</Username>
+  <URL>http://www.slideshare.net/Odersky/fosdem-2009-1013261</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/fosdem2009-1234290498563713-3-thumbnail.jpg?1234290724</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/fosdem2009-1234290498563713-3-thumbnail-2.jpg?1234290724</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse1013261&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=fosdem2009-1234290498563713-3&amp;stripped_title=fosdem-2009-1013261&amp;userName=Odersky&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse1013261&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=fosdem2009-1234290498563713-3&amp;stripped_title=fosdem-2009-1013261&amp;userName=Odersky&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/Odersky/fosdem-2009-1013261&quot; title=&quot;Scala Talk at FOSDEM 2009&quot;&gt;Scala Talk at FOSDEM 2009&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/Odersky&quot;&gt;Odersky&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Tue Feb 10 12:29:28 -0600 2009</Created>
+  <Updated>Tue Feb 10 12:32:04 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>ppt</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/fosdem2009-1234290498563713-3.ppt?response-content-disposition=attachment&amp;Signature=hZ1uBtj24x54TB2jdp7xZztpmgc%3D&amp;Expires=1346278470&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>3741458</ID>
+  <Title>The Why and How of Scala at Twitter</Title>
+  <Description>A presentation at Twitter&amp;rsquo;s official developer conference, Chirp, about why we use the Scala programming language and how we build services in it. Provides a tour of a number of libraries and tools, both developed at Twitter and otherwise.</Description>
+  <Status>2</Status>
+  <Username>al3x</Username>
+  <URL>http://www.slideshare.net/al3x/the-how-and-why-of-scala-at-twitter</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/chirpscala2010-100415192719-phpapp02-thumbnail.jpg?1271396759</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/chirpscala2010-100415192719-phpapp02-thumbnail-2.jpg?1271396759</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse3741458&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=chirpscala2010-100415192719-phpapp02&amp;stripped_title=the-how-and-why-of-scala-at-twitter&amp;userName=al3x&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse3741458&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=chirpscala2010-100415192719-phpapp02&amp;stripped_title=the-how-and-why-of-scala-at-twitter&amp;userName=al3x&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x/the-how-and-why-of-scala-at-twitter&quot; title=&quot;The Why and How of Scala at Twitter&quot;&gt;The Why and How of Scala at Twitter&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x&quot;&gt;Alex Payne&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Thu Apr 15 19:27:12 -0500 2010</Created>
+  <Updated>Fri Apr 16 00:45:59 -0500 2010</Updated>
+  <Language>en</Language>
+  <Format>key</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/chirpscala2010-100415192719-phpapp02.key?response-content-disposition=attachment&amp;Signature=XEmwPEA45axMenOCVJ8UQI9ScYw%3D&amp;Expires=1346278470&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>1364847</ID>
+  <Title>Scala: functional programming for the imperative mind</Title>
+  <Description>Introduction to the Scala language with a slight emphasis on its functional features.</Description>
+  <Status>2</Status>
+  <Username>SanderMak</Username>
+  <URL>http://www.slideshare.net/SanderMak/scala-functional-programming-for-the-imperative-mind</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/iskascala29-04-09final-090429145657-phpapp02-thumbnail.jpg?1241035079</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/iskascala29-04-09final-090429145657-phpapp02-thumbnail-2.jpg?1241035079</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse1364847&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=iskascala29-04-09final-090429145657-phpapp02&amp;stripped_title=scala-functional-programming-for-the-imperative-mind&amp;userName=SanderMak&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse1364847&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=iskascala29-04-09final-090429145657-phpapp02&amp;stripped_title=scala-functional-programming-for-the-imperative-mind&amp;userName=SanderMak&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/SanderMak/scala-functional-programming-for-the-imperative-mind&quot; title=&quot;Scala: functional programming for the imperative mind&quot;&gt;Scala: functional programming for the imperative mind&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/SanderMak&quot;&gt;Sander Mak (@Sander_Mak)&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Wed Apr 29 14:56:55 -0500 2009</Created>
+  <Updated>Wed Apr 29 14:57:59 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>key</Format>
+  <Download>0</Download>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>8244769</ID>
+  <Title>Scala vs Ruby</Title>
+  <Description>A comparison between the programming languages Scala and Ruby</Description>
+  <Status>2</Status>
+  <Username>El_Picador</Username>
+  <URL>http://www.slideshare.net/El_Picador/scala-vs-ruby</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scaladays-110608051827-phpapp02-thumbnail.jpg?1307529193</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scaladays-110608051827-phpapp02-thumbnail-2.jpg?1307529193</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse8244769&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scaladays-110608051827-phpapp02&amp;stripped_title=scala-vs-ruby&amp;userName=El_Picador&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse8244769&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scaladays-110608051827-phpapp02&amp;stripped_title=scala-vs-ruby&amp;userName=El_Picador&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/El_Picador/scala-vs-ruby&quot; title=&quot;Scala vs Ruby&quot;&gt;Scala vs Ruby&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/El_Picador&quot;&gt;El_Picador&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Wed Jun 08 05:18:22 -0500 2011</Created>
+  <Updated>Wed Jun 08 05:33:13 -0500 2011</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scaladays-110608051827-phpapp02.pdf?response-content-disposition=attachment&amp;Signature=ZaRpz9jzhZHkjaF31pNIjFwdIaM%3D&amp;Expires=1346278470&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>2794814</ID>
+  <Title>Akka: Simpler Scalability, Fault-Tolerance, Concurrency &amp;amp; Remoting through Actors</Title>
+  <Description>Akka is the platform for the next generation event-driven, scalable and fault-tolerant architectures on the JVM
+
+We believe that writing correct concurrent, fault-tolerant and scalable applications is too hard. Most of the time it&amp;rsquo;s because we are using the wrong tools and the wrong level of abstraction.
+
+Akka is here to change that.
+
+Using the Actor Model together with Software Transactional Memory we raise the abstraction level and provides a better platform to build correct concurrent and scalable applications.
+
+For fault-tolerance we adopt the &amp;quot;Let it crash&amp;quot; / &amp;quot;Embrace failure&amp;quot; model which have been used with great success in the telecom industry to build applications that self-heals, systems that never stop.
+
+Actors also provides the abstraction for transparent distribution and the basis for truly scalable and fault-tolerant applications.
+
+Akka is Open Source and available under the Apache 2 License.</Description>
+  <Status>2</Status>
+  <Username>jboner</Username>
+  <URL>http://www.slideshare.net/jboner/akka-simpler-scalability-faulttolerance-concurrency-remoting-through-actors</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/akka3htalk-091229181337-phpapp02-thumbnail.jpg?1262355517</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/akka3htalk-091229181337-phpapp02-thumbnail-2.jpg?1262355517</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse2794814&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=akka3htalk-091229181337-phpapp02&amp;stripped_title=akka-simpler-scalability-faulttolerance-concurrency-remoting-through-actors&amp;userName=jboner&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse2794814&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=akka3htalk-091229181337-phpapp02&amp;stripped_title=akka-simpler-scalability-faulttolerance-concurrency-remoting-through-actors&amp;userName=jboner&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jboner/akka-simpler-scalability-faulttolerance-concurrency-remoting-through-actors&quot; title=&quot;Akka: Simpler Scalability, Fault-Tolerance, Concurrency &amp;amp; Remoting through Actors&quot;&gt;Akka: Simpler Scalability, Fault-Tolerance, Concurrency &amp;amp; Remoting through Actors&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jboner&quot;&gt;Jonas Bon&#233;r&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Tue Dec 29 18:13:21 -0600 2009</Created>
+  <Updated>Fri Jan 01 08:18:37 -0600 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/akka3htalk-091229181337-phpapp02.pdf?response-content-disposition=attachment&amp;Signature=LfV2LHP74q5gF8fgKC9WikmIUAg%3D&amp;Expires=1346278470&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>3836705</ID>
+  <Title>Programming Android Application in Scala.</Title>
+  <Description>Presentation at OSDC.tw 2010.</Description>
+  <Status>2</Status>
+  <Username>brianhsu</Username>
+  <URL>http://www.slideshare.net/brianhsu/programming-android-application-in-scala</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-100423231158-phpapp01-thumbnail.jpg?1272117078</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-100423231158-phpapp01-thumbnail-2.jpg?1272117078</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse3836705&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-100423231158-phpapp01&amp;stripped_title=programming-android-application-in-scala&amp;userName=brianhsu&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse3836705&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-100423231158-phpapp01&amp;stripped_title=programming-android-application-in-scala&amp;userName=brianhsu&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/brianhsu/programming-android-application-in-scala&quot; title=&quot;Programming Android Application in Scala.&quot;&gt;Programming Android Application in Scala.&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/brianhsu&quot;&gt;Brian Hsu&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Fri Apr 23 22:55:37 -0500 2010</Created>
+  <Updated>Sat Apr 24 08:51:18 -0500 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scala-100423231158-phpapp01.pdf?response-content-disposition=attachment&amp;Signature=pFOcMFZPev7wa9KlIh71YspFYJg%3D&amp;Expires=1346278470&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>1198018</ID>
+  <Title>Basic Wicket and Scala</Title>
+  <Description>This presentation is about doing Scala with Wicket. The basics of Scala are handled with a simple Hello World application. After that I explain some functional concepts and show a basic Wicket application written in Scala.
+
+Daan van Etten gave this presentation at the ApacheCon Wicket meetup in Amsterdam, March 24, 2009. You can find the mentioned source code at http://stuq.nl/weblog/2009-03-24/amsterdam-wicket-meetup-2009</Description>
+  <Status>2</Status>
+  <Username>stuq</Username>
+  <URL>http://www.slideshare.net/stuq/basic-wicket-and-scala</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scalapresentation-amsterdam-090325152141-phpapp02-thumbnail.jpg?1340116472</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scalapresentation-amsterdam-090325152141-phpapp02-thumbnail-2.jpg?1340116472</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse1198018&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scalapresentation-amsterdam-090325152141-phpapp02&amp;stripped_title=basic-wicket-and-scala&amp;userName=stuq&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse1198018&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scalapresentation-amsterdam-090325152141-phpapp02&amp;stripped_title=basic-wicket-and-scala&amp;userName=stuq&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/stuq/basic-wicket-and-scala&quot; title=&quot;Basic Wicket and Scala&quot;&gt;Basic Wicket and Scala&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/stuq&quot;&gt;stuq&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Wed Mar 25 15:21:14 -0500 2009</Created>
+  <Updated>Tue Jun 19 09:34:32 -0500 2012</Updated>
+  <Language>en</Language>
+  <Format>key</Format>
+  <Download>0</Download>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>2535603</ID>
+  <Title>Devoxx 2009: The Lift Framework</Title>
+  <Description>Timothy Perrett&amp;rsquo;s talk on the Scala Lift web framework from Devoxx 2009 in Antwerp, Belgium.</Description>
+  <Status>2</Status>
+  <Username>timperrett</Username>
+  <URL>http://www.slideshare.net/timperrett/devoxx-lift-framework-d9-c-18-04-05</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/devoxx-lift-framework-d9c180405-091119055001-phpapp01-thumbnail.jpg?1258806117</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/devoxx-lift-framework-d9c180405-091119055001-phpapp01-thumbnail-2.jpg?1258806117</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse2535603&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=devoxx-lift-framework-d9c180405-091119055001-phpapp01&amp;stripped_title=devoxx-lift-framework-d9-c-18-04-05&amp;userName=timperrett&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse2535603&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=devoxx-lift-framework-d9c180405-091119055001-phpapp01&amp;stripped_title=devoxx-lift-framework-d9-c-18-04-05&amp;userName=timperrett&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/timperrett/devoxx-lift-framework-d9-c-18-04-05&quot; title=&quot;Devoxx 2009: The Lift Framework&quot;&gt;Devoxx 2009: The Lift Framework&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/timperrett&quot;&gt;Timothy Perrett&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Thu Nov 19 05:49:52 -0600 2009</Created>
+  <Updated>Sat Nov 21 06:21:57 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>0</Download>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+</Slideshows>

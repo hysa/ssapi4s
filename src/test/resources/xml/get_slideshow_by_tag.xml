@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tag>
+  <Name>scala</Name>
+  <Count>20</Count>
+<Slideshow>
+	<ID>414888</ID>
+	<Title>Groovy And Grails JUG Padova</Title>
+	<Description>Presentation of Groovy and Grails made at the JUG Padova on 17 May 2008</Description>
+	<Status>2</Status>
+	<Username>john.leach</Username>
+	<URL>http://www.slideshare.net/john.leach/groovy-and-grails-jug-padova</URL>
+	<ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/groovyandgrails-1211192948866493-8-thumbnail.jpg?1211187157</ThumbnailURL>
+	<ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/groovyandgrails-1211192948866493-8-thumbnail-2.jpg?1211187157</ThumbnailSmallURL>
+	<Embed>
+	</Embed>
+	<Created>Mon May 19 03:29:54 -0500 2008</Created>
+	<Updated>Mon May 19 03:52:37 -0500 2008</Updated>
+	<Language>en</Language>
+	<Format>pdf</Format>
+	<Download>1</Download>
+	<DownloadUrl></DownloadUrl>
+	<SlideshowType>0</SlideshowType>
+	<InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>1340440</ID>
+  <Title>Specs Presentation</Title>
+  <Description>An overview of Specs (v1.4.4) with example code.</Description>
+  <Status>2</Status>
+  <Username>Synesso</Username>
+  <URL>http://www.slideshare.net/Synesso/specs-presentation</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/specspresentation-090425043556-phpapp02-thumbnail.jpg?1240653501</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/specspresentation-090425043556-phpapp02-thumbnail-2.jpg?1240653501</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse1340440&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=specspresentation-090425043556-phpapp02&amp;stripped_title=specs-presentation&amp;userName=Synesso&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse1340440&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=specspresentation-090425043556-phpapp02&amp;stripped_title=specs-presentation&amp;userName=Synesso&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/Synesso/specs-presentation&quot; title=&quot;Specs Presentation&quot;&gt;Specs Presentation&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/Synesso&quot;&gt;Synesso&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sat Apr 25 04:35:51 -0500 2009</Created>
+  <Updated>Sat Apr 25 04:58:21 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>odp</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/specspresentation-090425043556-phpapp02.odp?response-content-disposition=attachment&amp;Signature=lUzNYRkK%2BH2AosZg%2FEKZhBBK9Lk%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>1234062</ID>
+  <Title>Why Scala for Web 2.0?</Title>
+  <Description>A presentation to Web 2.0 Expo San Francisco, arguing for Scala as an ideal language for social web businesses.</Description>
+  <Status>2</Status>
+  <Username>al3x</Username>
+  <URL>http://www.slideshare.net/al3x/why-scala-for-web-20</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-090401110506-phpapp01-thumbnail.jpg?1238733653</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-090401110506-phpapp01-thumbnail-2.jpg?1238733653</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse1234062&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-090401110506-phpapp01&amp;stripped_title=why-scala-for-web-20&amp;userName=al3x&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse1234062&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-090401110506-phpapp01&amp;stripped_title=why-scala-for-web-20&amp;userName=al3x&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x/why-scala-for-web-20&quot; title=&quot;Why Scala for Web 2.0?&quot;&gt;Why Scala for Web 2.0?&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x&quot;&gt;Alex Payne&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Wed Apr 01 11:05:04 -0500 2009</Created>
+  <Updated>Thu Apr 02 23:40:53 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>zip</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scala-090401110506-phpapp01.zip?response-content-disposition=attachment&amp;Signature=0tYPZlVJ40McBjR9thGdZRHarnI%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>1016923</ID>
+  <Title>JSUG - Scala Lightning Talk by Michael Greifeneder</Title>
+  <Description>visit http://jsug.fsinf.at</Description>
+  <Status>2</Status>
+  <Username>javastudentusergroup</Username>
+  <URL>http://www.slideshare.net/javastudentusergroup/jsug-scala-lightning-talk-by-michael-greifeneder</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/jsugslidesscalalightningmichaelgreifeneder-1234363453196573-3-thumbnail.jpg?1234365846</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/jsugslidesscalalightningmichaelgreifeneder-1234363453196573-3-thumbnail-2.jpg?1234365846</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse1016923&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jsugslidesscalalightningmichaelgreifeneder-1234363453196573-3&amp;stripped_title=jsug-scala-lightning-talk-by-michael-greifeneder&amp;userName=javastudentusergroup&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse1016923&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jsugslidesscalalightningmichaelgreifeneder-1234363453196573-3&amp;stripped_title=jsug-scala-lightning-talk-by-michael-greifeneder&amp;userName=javastudentusergroup&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/javastudentusergroup/jsug-scala-lightning-talk-by-michael-greifeneder&quot; title=&quot;JSUG - Scala Lightning Talk by Michael Greifeneder&quot;&gt;JSUG - Scala Lightning Talk by Michael Greifeneder&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/javastudentusergroup&quot;&gt;Christoph Pickl&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Wed Feb 11 08:51:20 -0600 2009</Created>
+  <Updated>Wed Feb 11 09:24:06 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/jsugslidesscalalightningmichaelgreifeneder-1234363453196573-3.pdf?response-content-disposition=attachment&amp;Signature=MzHc9hNhTmn8l4OcBg6h6ehrgzI%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>1013261</ID>
+  <Title>Scala Talk at FOSDEM 2009</Title>
+  <Description>A talk on Scala given Feb 6th at FOSDEM 2009.</Description>
+  <Status>2</Status>
+  <Username>Odersky</Username>
+  <URL>http://www.slideshare.net/Odersky/fosdem-2009-1013261</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/fosdem2009-1234290498563713-3-thumbnail.jpg?1234290724</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/fosdem2009-1234290498563713-3-thumbnail-2.jpg?1234290724</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse1013261&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=fosdem2009-1234290498563713-3&amp;stripped_title=fosdem-2009-1013261&amp;userName=Odersky&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse1013261&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=fosdem2009-1234290498563713-3&amp;stripped_title=fosdem-2009-1013261&amp;userName=Odersky&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/Odersky/fosdem-2009-1013261&quot; title=&quot;Scala Talk at FOSDEM 2009&quot;&gt;Scala Talk at FOSDEM 2009&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/Odersky&quot;&gt;Odersky&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Tue Feb 10 12:29:28 -0600 2009</Created>
+  <Updated>Tue Feb 10 12:32:04 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>ppt</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/fosdem2009-1234290498563713-3.ppt?response-content-disposition=attachment&amp;Signature=T3wDGuZwMEzvzmrq7FivJRnVQY0%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>996216</ID>
+  <Title>Twitter &amp;lt;3s Scala</Title>
+  <Description>Sharing Twitter&amp;rsquo;s coding conventions and experiences so far with the Scala programming language.</Description>
+  <Status>2</Status>
+  <Username>al3x</Username>
+  <URL>http://www.slideshare.net/al3x/twitter-3s-scala</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/oct-2008-base-meeting-1233905412038124-2-thumbnail.jpg?1233905512</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/oct-2008-base-meeting-1233905412038124-2-thumbnail-2.jpg?1233905512</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse996216&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=oct-2008-base-meeting-1233905412038124-2&amp;stripped_title=twitter-3s-scala&amp;userName=al3x&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse996216&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=oct-2008-base-meeting-1233905412038124-2&amp;stripped_title=twitter-3s-scala&amp;userName=al3x&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x/twitter-3s-scala&quot; title=&quot;Twitter &amp;lt;3s Scala&quot;&gt;Twitter &amp;lt;3s Scala&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x&quot;&gt;Alex Payne&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Fri Feb 06 01:31:06 -0600 2009</Created>
+  <Updated>Fri Feb 06 01:31:52 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>zip</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/oct-2008-base-meeting-1233905412038124-2.zip?response-content-disposition=attachment&amp;Signature=vdc3TE9Nep28vVv%2FadmXmnYmXRk%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>983165</ID>
+  <Title>Better Strategies for Null Handling in Java</Title>
+  <Description>Most developers handle null not defensive enough. The presentation is about strategies for better null handling in Java to make APIs clearer and prevent Null Pointer Exceptions.</Description>
+  <Status>2</Status>
+  <Username>Stephan.Schmidt</Username>
+  <URL>http://www.slideshare.net/Stephan.Schmidt/better-strategies-for-null-handling-in-java</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/nullhandlingenglish-1233649420368672-3-thumbnail.jpg?1233652272</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/nullhandlingenglish-1233649420368672-3-thumbnail-2.jpg?1233652272</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse983165&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=nullhandlingenglish-1233649420368672-3&amp;stripped_title=better-strategies-for-null-handling-in-java&amp;userName=Stephan.Schmidt&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse983165&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=nullhandlingenglish-1233649420368672-3&amp;stripped_title=better-strategies-for-null-handling-in-java&amp;userName=Stephan.Schmidt&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/Stephan.Schmidt/better-strategies-for-null-handling-in-java&quot; title=&quot;Better Strategies for Null Handling in Java&quot;&gt;Better Strategies for Null Handling in Java&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/Stephan.Schmidt&quot;&gt;Stephan Schmidt&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Tue Feb 03 02:25:10 -0600 2009</Created>
+  <Updated>Tue Feb 03 03:11:12 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/nullhandlingenglish-1233649420368672-3.pdf?response-content-disposition=attachment&amp;Signature=dPM32GVCk3%2BG3Mvg%2FUkMR4qcOxU%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>966972</ID>
+  <Title>Pragmatic Real-World Scala (short version)</Title>
+  <Description>Short (45 min) version of my &amp;rsquo;Pragmatic Real-World Scala&amp;rsquo; talk. Discussing patterns and idioms discovered during 1.5 years of building a production system for finance; portfolio management and simulation.</Description>
+  <Status>2</Status>
+  <Username>jboner</Username>
+  <URL>http://www.slideshare.net/jboner/pragmatic-real-world-scala-45-min-presentation</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/pragmaticrealworldscalajfokus2009-1233251076441384-2-thumbnail.jpg?1233297947</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/pragmaticrealworldscalajfokus2009-1233251076441384-2-thumbnail-2.jpg?1233297947</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse966972&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=pragmaticrealworldscalajfokus2009-1233251076441384-2&amp;stripped_title=pragmatic-real-world-scala-45-min-presentation&amp;userName=jboner&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse966972&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=pragmaticrealworldscalajfokus2009-1233251076441384-2&amp;stripped_title=pragmatic-real-world-scala-45-min-presentation&amp;userName=jboner&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jboner/pragmatic-real-world-scala-45-min-presentation&quot; title=&quot;Pragmatic Real-World Scala (short version)&quot;&gt;Pragmatic Real-World Scala (short version)&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jboner&quot;&gt;Jonas Bon&#233;r&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Thu Jan 29 11:50:57 -0600 2009</Created>
+  <Updated>Fri Jan 30 00:45:47 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/pragmaticrealworldscalajfokus2009-1233251076441384-2.pdf?response-content-disposition=attachment&amp;Signature=tGMMj4hjioFCiZoAGHv8dRDHj9Y%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>936140</ID>
+  <Title>Introduction to Scala for Java Developers</Title>
+  <Description>This is brief presentation on the Scala programming language. It is aimed at Java developers who are curious about Scala. It was given at a San Francisco Java User Group in January 2009.</Description>
+  <Status>2</Status>
+  <Username>michael.galpin</Username>
+  <URL>http://www.slideshare.net/michael.galpin/introduction-to-scala-for-java-developers-presentation</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1232503487334910-2-thumbnail.jpg?1232559702</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1232503487334910-2-thumbnail-2.jpg?1232559702</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse936140&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1232503487334910-2&amp;stripped_title=introduction-to-scala-for-java-developers-presentation&amp;userName=michael.galpin&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse936140&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1232503487334910-2&amp;stripped_title=introduction-to-scala-for-java-developers-presentation&amp;userName=michael.galpin&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/michael.galpin/introduction-to-scala-for-java-developers-presentation&quot; title=&quot;Introduction to Scala for Java Developers&quot;&gt;Introduction to Scala for Java Developers&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/michael.galpin&quot;&gt;Michael Galpin&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Tue Jan 20 20:06:20 -0600 2009</Created>
+  <Updated>Wed Jan 21 11:41:42 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scala-1232503487334910-2.pdf?response-content-disposition=attachment&amp;Signature=qMhuRYgmchCcJ2QK3gqKGvBMA3I%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>816135</ID>
+  <Title>Scala Study Session</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>kentaro714</Username>
+  <URL>http://www.slideshare.net/kentaro714/scala-presentation-816135</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scalastudysession-1228360147131878-8-thumbnail.jpg?1228353420</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scalastudysession-1228360147131878-8-thumbnail-2.jpg?1228353420</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse816135&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scalastudysession-1228360147131878-8&amp;stripped_title=scala-presentation-816135&amp;userName=kentaro714&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse816135&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scalastudysession-1228360147131878-8&amp;stripped_title=scala-presentation-816135&amp;userName=kentaro714&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kentaro714/scala-presentation-816135&quot; title=&quot;Scala Study Session&quot;&gt;Scala Study Session&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kentaro714&quot;&gt;kentaro watanabe&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Wed Dec 03 19:10:01 -0600 2008</Created>
+  <Updated>Wed Dec 03 19:17:00 -0600 2008</Updated>
+  <Language>ja</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scalastudysession-1228360147131878-8.pdf?response-content-disposition=attachment&amp;Signature=%2FH79aj7fv%2BiXJy9rrTu7IXQ3FyY%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>814430</ID>
+  <Title>Scala</Title>
+  <Description>Scala</Description>
+  <Status>2</Status>
+  <Username>konryd</Username>
+  <URL>http://www.slideshare.net/konryd/scala-presentation</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1228331147531443-9-thumbnail.jpg?1228323808</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1228331147531443-9-thumbnail-2.jpg?1228323808</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse814430&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1228331147531443-9&amp;stripped_title=scala-presentation&amp;userName=konryd&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse814430&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1228331147531443-9&amp;stripped_title=scala-presentation&amp;userName=konryd&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/konryd/scala-presentation&quot; title=&quot;Scala&quot;&gt;Scala&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/konryd&quot;&gt;konryd&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Wed Dec 03 11:02:08 -0600 2008</Created>
+  <Updated>Wed Dec 03 11:03:28 -0600 2008</Updated>
+  <Language>!!</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scala-1228331147531443-9.pdf?response-content-disposition=attachment&amp;Signature=YT1eNe%2FrS9GiBmQOHneIGzF20J0%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>762522</ID>
+  <Title>Lift web framework and Scala programming language talk</Title>
+  <Description>SDForum Emerging Technology Nov 2008: Developing the Next Generation of Web Apps on a shoestring
+by Dan O\&amp;rsquo;Leary and David Pollak</Description>
+  <Status>2</Status>
+  <Username>clibou</Username>
+  <URL>http://www.slideshare.net/clibou/lift-web-framework-and-scala-programming-language-talk-presentation</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/lift-web-framework-and-scala-programming-language-1226970790199135-8-thumbnail.jpg?1239061063</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/lift-web-framework-and-scala-programming-language-1226970790199135-8-thumbnail-2.jpg?1239061063</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse762522&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=lift-web-framework-and-scala-programming-language-1226970790199135-8&amp;stripped_title=lift-web-framework-and-scala-programming-language-talk-presentation&amp;userName=clibou&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse762522&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=lift-web-framework-and-scala-programming-language-1226970790199135-8&amp;stripped_title=lift-web-framework-and-scala-programming-language-talk-presentation&amp;userName=clibou&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/clibou/lift-web-framework-and-scala-programming-language-talk-presentation&quot; title=&quot;Lift web framework and Scala programming language talk&quot;&gt;Lift web framework and Scala programming language talk&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/clibou&quot;&gt;clive boulton&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Mon Nov 17 17:13:10 -0600 2008</Created>
+  <Updated>Mon Apr 06 18:37:43 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>ppt</Format>
+  <Download>0</Download>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>737476</ID>
+  <Title>Lift Mit Scala   Ein Bef&#246;Rderungsmittel In Die N&#228;Chste Etage Der Web Frameworks</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>itemis</Username>
+  <URL>http://www.slideshare.net/itemis/lift-mit-scala-ein-befrderungsmittel-in-die-nchste-etage-der-web-frameworks-presentation</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/lift-mit-scala-ein-befrderungsmittel-in-die-nchste-etage-der-webframeworks-1226311640398712-8-thumbnail.jpg?1226304454</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/lift-mit-scala-ein-befrderungsmittel-in-die-nchste-etage-der-webframeworks-1226311640398712-8-thumbnail-2.jpg?1226304454</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse737476&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=lift-mit-scala-ein-befrderungsmittel-in-die-nchste-etage-der-webframeworks-1226311640398712-8&amp;stripped_title=lift-mit-scala-ein-befrderungsmittel-in-die-nchste-etage-der-web-frameworks-presentation&amp;userName=itemis&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse737476&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=lift-mit-scala-ein-befrderungsmittel-in-die-nchste-etage-der-webframeworks-1226311640398712-8&amp;stripped_title=lift-mit-scala-ein-befrderungsmittel-in-die-nchste-etage-der-web-frameworks-presentation&amp;userName=itemis&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/itemis/lift-mit-scala-ein-befrderungsmittel-in-die-nchste-etage-der-web-frameworks-presentation&quot; title=&quot;Lift Mit Scala   Ein Bef&#246;Rderungsmittel In Die N&#228;Chste Etage Der Web Frameworks&quot;&gt;Lift Mit Scala   Ein Bef&#246;Rderungsmittel In Die N&#228;Chste Etage Der Web Frameworks&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/itemis&quot;&gt;itemis AG&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Mon Nov 10 02:07:33 -0600 2008</Created>
+  <Updated>Mon Nov 10 02:07:34 -0600 2008</Updated>
+  <Language>de</Language>
+  <Format>pdf</Format>
+  <Download>0</Download>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>585572</ID>
+  <Title>Why Scala?</Title>
+  <Description>Why Scala? How a serial language enthusiast settled down with a nice Swiss language.</Description>
+  <Status>2</Status>
+  <Username>al3x</Username>
+  <URL>http://www.slideshare.net/al3x/why-scala-presentation</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1220722512764902-8-thumbnail.jpg?1220799156</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1220722512764902-8-thumbnail-2.jpg?1220799156</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse585572&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1220722512764902-8&amp;stripped_title=why-scala-presentation&amp;userName=al3x&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse585572&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1220722512764902-8&amp;stripped_title=why-scala-presentation&amp;userName=al3x&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x/why-scala-presentation&quot; title=&quot;Why Scala?&quot;&gt;Why Scala?&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/al3x&quot;&gt;Alex Payne&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sat Sep 06 10:36:21 -0500 2008</Created>
+  <Updated>Sun Sep 07 09:52:36 -0500 2008</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scala-1220722512764902-8.pdf?response-content-disposition=attachment&amp;Signature=E6J9LrR7XDfreBV%2B3c7RgojtsVc%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>545490</ID>
+  <Title>Digital Signage is as easy as 1-2-3</Title>
+  <Description>Use InfoSignz to make creating your digital signage network as easy as 1-2-3</Description>
+  <Status>2</Status>
+  <Username>infosignz</Username>
+  <URL>http://www.slideshare.net/infosignz/digital-signage-is-as-easy-as-123</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/infosignz-is-easy-to-use-blog-post-1218113685723003-8-thumbnail.jpg?1218106567</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/infosignz-is-easy-to-use-blog-post-1218113685723003-8-thumbnail-2.jpg?1218106567</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse545490&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=infosignz-is-easy-to-use-blog-post-1218113685723003-8&amp;stripped_title=digital-signage-is-as-easy-as-123&amp;userName=infosignz&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse545490&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=infosignz-is-easy-to-use-blog-post-1218113685723003-8&amp;stripped_title=digital-signage-is-as-easy-as-123&amp;userName=infosignz&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/infosignz/digital-signage-is-as-easy-as-123&quot; title=&quot;Digital Signage is as easy as 1-2-3&quot;&gt;Digital Signage is as easy as 1-2-3&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/infosignz&quot;&gt;infosignz&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Thu Aug 07 05:56:05 -0500 2008</Created>
+  <Updated>Thu Aug 07 05:56:07 -0500 2008</Updated>
+  <Language>en</Language>
+  <Format>ppt</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/infosignz-is-easy-to-use-blog-post-1218113685723003-8.ppt?response-content-disposition=attachment&amp;Signature=3vqDzT%2F9SFZIPlOEkFH8u%2B33mGM%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>542993</ID>
+  <Title>DOSUG Scala Basic Concepts 0805</Title>
+  <Description>Scala Syntax Pattern Matching Math Expressions
+Language Comparison Applicability</Description>
+  <Status>2</Status>
+  <Username>axiom6</Username>
+  <URL>http://www.slideshare.net/axiom6/dosug-scala-basic-concepts-0805</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scalabasicconcepts0805-1217972153918401-9-thumbnail.jpg?1217964800</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scalabasicconcepts0805-1217972153918401-9-thumbnail-2.jpg?1217964800</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse542993&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scalabasicconcepts0805-1217972153918401-9&amp;stripped_title=dosug-scala-basic-concepts-0805&amp;userName=axiom6&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse542993&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scalabasicconcepts0805-1217972153918401-9&amp;stripped_title=dosug-scala-basic-concepts-0805&amp;userName=axiom6&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/axiom6/dosug-scala-basic-concepts-0805&quot; title=&quot;DOSUG Scala Basic Concepts 0805&quot;&gt;DOSUG Scala Basic Concepts 0805&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/axiom6&quot;&gt;Tom Flaherty&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Tue Aug 05 14:31:26 -0500 2008</Created>
+  <Updated>Tue Aug 05 14:33:20 -0500 2008</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scalabasicconcepts0805-1217972153918401-9.pdf?response-content-disposition=attachment&amp;Signature=2FJ4ldPeYDlN2APuelCXlQiH6Jk%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>453237</ID>
+  <Title>&#12495;&#12452;&#12502;&#12522;&#12483;&#12489;&#35328;&#35486;Scala&#12434;&#20351;&#12358;</Title>
+  <Description>BPStudy #10 : &#12495;&#12452;&#12502;&#12522;&#12483;&#12489;&#35328;&#35486;Scala&#12434;&#20351;&#12358;</Description>
+  <Status>2</Status>
+  <Username>bpstudy</Username>
+  <URL>http://www.slideshare.net/bpstudy/scala-453237</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1212847406248113-9-thumbnail.jpg?1212840261</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1212847406248113-9-thumbnail-2.jpg?1212840261</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse453237&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1212847406248113-9&amp;stripped_title=scala-453237&amp;userName=bpstudy&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse453237&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1212847406248113-9&amp;stripped_title=scala-453237&amp;userName=bpstudy&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/bpstudy/scala-453237&quot; title=&quot;&#12495;&#12452;&#12502;&#12522;&#12483;&#12489;&#35328;&#35486;Scala&#12434;&#20351;&#12358;&quot;&gt;&#12495;&#12452;&#12502;&#12522;&#12483;&#12489;&#35328;&#35486;Scala&#12434;&#20351;&#12358;&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/bpstudy&quot;&gt;bpstudy&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sat Jun 07 07:01:11 -0500 2008</Created>
+  <Updated>Sat Jun 07 07:04:21 -0500 2008</Updated>
+  <Language>ja</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scala-1212847406248113-9.pdf?response-content-disposition=attachment&amp;Signature=nzt3yZqJhUci70PzaqdcSohkh0g%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>409975</ID>
+  <Title>what\&amp;rsquo;s lift</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>yoshiori</Username>
+  <URL>http://www.slideshare.net/yoshiori/whats-lift</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/soozy5-1210930921165775-8-thumbnail.jpg?1210923721</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/soozy5-1210930921165775-8-thumbnail-2.jpg?1210923721</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse409975&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=soozy5-1210930921165775-8&amp;stripped_title=whats-lift&amp;userName=yoshiori&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse409975&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=soozy5-1210930921165775-8&amp;stripped_title=whats-lift&amp;userName=yoshiori&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/yoshiori/whats-lift&quot; title=&quot;what\&amp;#39;s lift&quot;&gt;what\&amp;#39;s lift&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/yoshiori&quot;&gt;yoshiori&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Fri May 16 02:42:01 -0500 2008</Created>
+  <Updated>Fri May 16 02:42:01 -0500 2008</Updated>
+  <Language>ja</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/soozy5-1210930921165775-8.pdf?response-content-disposition=attachment&amp;Signature=EERAIqWUokzdSqIrMDn%2BAIkSmuk%3D&amp;Expires=1345819057&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>159219</ID>
+  <Title>Scala</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>pastas9</Username>
+  <URL>http://www.slideshare.net/pastas9/scala</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1194502049354588-1-thumbnail.jpg?1194494850</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/scala-1194502049354588-1-thumbnail-2.jpg?1194494850</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse159219&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1194502049354588-1&amp;stripped_title=scala&amp;userName=pastas9&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse159219&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scala-1194502049354588-1&amp;stripped_title=scala&amp;userName=pastas9&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/pastas9/scala&quot; title=&quot;Scala&quot;&gt;Scala&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/pastas9&quot;&gt;pastas9&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Wed Nov 07 22:07:30 -0600 2007</Created>
+  <Updated>Wed Nov 07 22:07:30 -0600 2007</Updated>
+  <Language>en</Language>
+  <Format>ppt</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scala-1194502049354588-1.ppt?response-content-disposition=attachment&amp;Signature=t20tC%2BFftp4fr%2BNUSjw4J1JMq9I%3D&amp;Expires=1345819058&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>159195</ID>
+  <Title>Google06</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>pastas9</Username>
+  <URL>http://www.slideshare.net/pastas9/google06</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/google06-1194497523120862-5-thumbnail.jpg?1194490324</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/google06-1194497523120862-5-thumbnail-2.jpg?1194490324</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse159195&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=google06-1194497523120862-5&amp;stripped_title=google06&amp;userName=pastas9&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse159195&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=google06-1194497523120862-5&amp;stripped_title=google06&amp;userName=pastas9&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/pastas9/google06&quot; title=&quot;Google06&quot;&gt;Google06&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/pastas9&quot;&gt;pastas9&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Wed Nov 07 20:52:04 -0600 2007</Created>
+  <Updated>Wed Nov 07 20:52:04 -0600 2007</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/google06-1194497523120862-5.pdf?response-content-disposition=attachment&amp;Signature=3DJ3wdjVDCPS0tPpA0eSlIxtvNg%3D&amp;Expires=1345819058&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+</Tag>

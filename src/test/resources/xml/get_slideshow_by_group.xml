@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Group>
+  <Name>javaday-italy</Name>
+  <Count>21</Count>
+<Slideshow>
+  <ID>202356</ID>
+  <Title>Tapestry 5 in Action Pratica </Title>
+  <Description>Jakarta Tapestry &#232; un framework basato su un modello a componenti che si distacca dall&#8217;approccio imperante del MVC. Durante il talk sar&#224; sviluppata una semplice web application, un Joke box online, che permetter&#224; di apprendere i concetti e le features di Tapestry 5. In particolar modo si cercher&#224; di illustrare come un approccio a componenti permetta di sfruttare a pieno i vantaggi della programmazione ad oggetti, rendendo trasparente la gestione di sessione e request, consentendo allo sviluppatore di concentrarsi sullo stato dell&amp;rsquo;oggetto, delegando al framework il mapping tra componenti e templates e l&amp;rsquo;aggiornamento degli oggetti del model. I sofisticati componenti offerti da Tapesrty consento di realizzare pagine dotate di comportamenti complessi con uno sforzo ridotto. Il tutto senza implementare/estendere neanche una interfaccia/classe dell&amp;rsquo;infrastruttura.</Description>
+  <Status>2</Status>
+  <Username>maraexception</Username>
+  <URL>http://www.slideshare.net/maraexception/tapestry5inaction-pratica-javaday-roma2007</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/tapestry5inaction-pratica-javaday-roma2007-1197562919812747-4-thumbnail.jpg?1197555720</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/tapestry5inaction-pratica-javaday-roma2007-1197562919812747-4-thumbnail-2.jpg?1197555720</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse202356&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=tapestry5inaction-pratica-javaday-roma2007-1197562919812747-4&amp;stripped_title=tapestry5inaction-pratica-javaday-roma2007&amp;userName=maraexception&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse202356&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=tapestry5inaction-pratica-javaday-roma2007-1197562919812747-4&amp;stripped_title=tapestry5inaction-pratica-javaday-roma2007&amp;userName=maraexception&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/maraexception/tapestry5inaction-pratica-javaday-roma2007&quot; title=&quot;Tapestry 5 in Action Pratica &quot;&gt;Tapestry 5 in Action Pratica &lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/maraexception&quot;&gt;maraexception&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Thu Dec 13 08:22:00 -0600 2007</Created>
+  <Updated>Thu Dec 13 08:22:00 -0600 2007</Updated>
+  <Language>it</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/tapestry5inaction-pratica-javaday-roma2007-1197562919812747-4.pdf?response-content-disposition=attachment&amp;Signature=ZDNPai6ETHzy6ghcdob3zool7a8%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>191627</ID>
+  <Title>Il Web del Futuro: Enterprise e Web Semantico</Title>
+  <Description>Social Network, Folksonomy, Wiki e User Generated Content sono le parole d&amp;rsquo;ordine di questa fase del Web e l&#8217;integrazione di tali strumenti con quelli gia presenti in azienda come CRM, Calendari, Rubriche, Gestione Progetti apre nuovi sviluppi e possibilit&#224; per l&#8217;azienda stessa. In tale scenario, definito come Enterprise 2.0, l&amp;rsquo;interoperabilit&#224; e l&amp;rsquo;integrazione dei dati provenienti da fonti differenti &#232; garantita dal Web Semantico e dagli standard aperti.
+Durante il Seminario verranno illustrate tali potenzialit&#224; sia dal punto di vista tecnico che di visioning. Esempi pratici e informazioni riguardo gli strumenti gratuiti disponibili forniranno agli interessati le risorse e punti di riferimento per implementare tali soluzioni.</Description>
+  <Status>2</Status>
+  <Username>simone.onofri</Username>
+  <URL>http://www.slideshare.net/simone.onofri/il-web-del-futuro-enterprise-e-web-semantico</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/il-web-del-futuro-enterprise-e-web-semantico-1196785128845062-5-thumbnail.jpg?1196777929</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/il-web-del-futuro-enterprise-e-web-semantico-1196785128845062-5-thumbnail-2.jpg?1196777929</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse191627&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=il-web-del-futuro-enterprise-e-web-semantico-1196785128845062-5&amp;stripped_title=il-web-del-futuro-enterprise-e-web-semantico&amp;userName=simone.onofri&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse191627&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=il-web-del-futuro-enterprise-e-web-semantico-1196785128845062-5&amp;stripped_title=il-web-del-futuro-enterprise-e-web-semantico&amp;userName=simone.onofri&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/simone.onofri/il-web-del-futuro-enterprise-e-web-semantico&quot; title=&quot;Il Web del Futuro: Enterprise e Web Semantico&quot;&gt;Il Web del Futuro: Enterprise e Web Semantico&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/simone.onofri&quot;&gt;Simone Onofri&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Tue Dec 04 08:18:49 -0600 2007</Created>
+  <Updated>Tue Dec 04 08:18:49 -0600 2007</Updated>
+  <Language>it</Language>
+  <Format>pdf</Format>
+  <Download>0</Download>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>202389</ID>
+  <Title>Tapestry 5 in Action Introduzione</Title>
+  <Description>Jakarta Tapestry &#232; un framework basato su un modello a componenti che si distacca dall&#8217;approccio imperante del MVC. Durante il talk sar&#224; sviluppata una semplice web application, un Joke box online, che permetter&#224; di apprendere i concetti e le features di Tapestry 5.</Description>
+  <Status>2</Status>
+  <Username>maraexception</Username>
+  <URL>http://www.slideshare.net/maraexception/tapestry-5-in-action-introduzione</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/tapestry-5-in-action-introduzione-1197564390237288-5-thumbnail.jpg?1197557191</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/tapestry-5-in-action-introduzione-1197564390237288-5-thumbnail-2.jpg?1197557191</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse202389&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=tapestry-5-in-action-introduzione-1197564390237288-5&amp;stripped_title=tapestry-5-in-action-introduzione&amp;userName=maraexception&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse202389&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=tapestry-5-in-action-introduzione-1197564390237288-5&amp;stripped_title=tapestry-5-in-action-introduzione&amp;userName=maraexception&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/maraexception/tapestry-5-in-action-introduzione&quot; title=&quot;Tapestry 5 in Action Introduzione&quot;&gt;Tapestry 5 in Action Introduzione&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/maraexception&quot;&gt;maraexception&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Thu Dec 13 08:46:31 -0600 2007</Created>
+  <Updated>Thu Dec 13 08:46:31 -0600 2007</Updated>
+  <Language>it</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/tapestry-5-in-action-introduzione-1197564390237288-5.pdf?response-content-disposition=attachment&amp;Signature=dzpLEFZCgiwKk3UFvmymOZEUb9Y%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>188898</ID>
+  <Title>Aspect Oriented Programming</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>andrea.bozzoni</Username>
+  <URL>http://www.slideshare.net/andrea.bozzoni/aspect-oriented-programming</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/aspect-oriented-programming-1196603994860770-4-thumbnail.jpg?1196596795</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/aspect-oriented-programming-1196603994860770-4-thumbnail-2.jpg?1196596795</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse188898&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=aspect-oriented-programming-1196603994860770-4&amp;stripped_title=aspect-oriented-programming&amp;userName=andrea.bozzoni&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse188898&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=aspect-oriented-programming-1196603994860770-4&amp;stripped_title=aspect-oriented-programming&amp;userName=andrea.bozzoni&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/andrea.bozzoni/aspect-oriented-programming&quot; title=&quot;Aspect Oriented Programming&quot;&gt;Aspect Oriented Programming&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/andrea.bozzoni&quot;&gt;Andrea Bozzoni&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sun Dec 02 05:59:55 -0600 2007</Created>
+  <Updated>Sun Dec 02 05:59:55 -0600 2007</Updated>
+  <Language>it</Language>
+  <Format>odp</Format>
+  <Download>0</Download>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>187799</ID>
+  <Title>Rich Internet Application con Flex, AIR e Java</Title>
+  <Description>These are the slides of my presentation at JavaDay Cenference held in Rome, Italy.</Description>
+  <Status>2</Status>
+  <Username>marcocasario</Username>
+  <URL>http://www.slideshare.net/marcocasario/rich-internet-application-con-flex-air-e-java</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/rich-internet-application-con-flex-air-e-java-1196464339646144-5-thumbnail.jpg?1196457141</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/rich-internet-application-con-flex-air-e-java-1196464339646144-5-thumbnail-2.jpg?1196457141</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse187799&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=rich-internet-application-con-flex-air-e-java-1196464339646144-5&amp;stripped_title=rich-internet-application-con-flex-air-e-java&amp;userName=marcocasario&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse187799&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=rich-internet-application-con-flex-air-e-java-1196464339646144-5&amp;stripped_title=rich-internet-application-con-flex-air-e-java&amp;userName=marcocasario&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/marcocasario/rich-internet-application-con-flex-air-e-java&quot; title=&quot;Rich Internet Application con Flex, AIR e Java&quot;&gt;Rich Internet Application con Flex, AIR e Java&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/marcocasario&quot;&gt;marcocasario&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Fri Nov 30 15:12:21 -0600 2007</Created>
+  <Updated>Fri Nov 30 15:12:21 -0600 2007</Updated>
+  <Language>en</Language>
+  <Format>ppt</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/rich-internet-application-con-flex-air-e-java-1196464339646144-5.ppt?response-content-disposition=attachment&amp;Signature=Z%2FRDvju0dQkue%2B%2FHraT342jtVy0%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>139405</ID>
+  <Title>Continuous Integration With Hudson</Title>
+  <Description>A presentation from Javaday Torino 2007</Description>
+  <Status>2</Status>
+  <Username>carlo.bonamico</Username>
+  <URL>http://www.slideshare.net/carlo.bonamico/continuous-integration-with-hudson</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/continuous-integration-with-hudson-1192801285234240-2-thumbnail.jpg?1272102387</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/continuous-integration-with-hudson-1192801285234240-2-thumbnail-2.jpg?1272102387</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse139405&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=continuous-integration-with-hudson-1192801285234240-2&amp;stripped_title=continuous-integration-with-hudson&amp;userName=carlo.bonamico&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse139405&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=continuous-integration-with-hudson-1192801285234240-2&amp;stripped_title=continuous-integration-with-hudson&amp;userName=carlo.bonamico&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/carlo.bonamico/continuous-integration-with-hudson&quot; title=&quot;Continuous Integration With Hudson&quot;&gt;Continuous Integration With Hudson&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/carlo.bonamico&quot;&gt;carlo.bonamico&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Fri Oct 19 06:41:26 -0500 2007</Created>
+  <Updated>Sat Apr 24 04:46:27 -0500 2010</Updated>
+  <Language>en</Language>
+  <Format>ppt</Format>
+  <Download>0</Download>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>189167</ID>
+  <Title>Javaday Roma2007 Magic Box Kiss With Spring</Title>
+  <Description>Presentation at Javaday 2007 in Rome, about K.i.s.s. principle with SpringFramework in the Project MagicBox</Description>
+  <Status>2</Status>
+  <Username>desmax74</Username>
+  <URL>http://www.slideshare.net/desmax74/javaday-roma2007-magic-box-kiss-with-spring</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/javaday-roma2007-magic-box-kiss-with-spring-1196623988279008-2-thumbnail.jpg?1253474223</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/javaday-roma2007-magic-box-kiss-with-spring-1196623988279008-2-thumbnail-2.jpg?1253474223</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse189167&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javaday-roma2007-magic-box-kiss-with-spring-1196623988279008-2&amp;stripped_title=javaday-roma2007-magic-box-kiss-with-spring&amp;userName=desmax74&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse189167&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javaday-roma2007-magic-box-kiss-with-spring-1196623988279008-2&amp;stripped_title=javaday-roma2007-magic-box-kiss-with-spring&amp;userName=desmax74&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/desmax74/javaday-roma2007-magic-box-kiss-with-spring&quot; title=&quot;Javaday Roma2007 Magic Box Kiss With Spring&quot;&gt;Javaday Roma2007 Magic Box Kiss With Spring&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/desmax74&quot;&gt;Massimiliano Dess&#236;&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sun Dec 02 11:33:14 -0600 2007</Created>
+  <Updated>Sun Sep 20 14:17:03 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/javaday-roma2007-magic-box-kiss-with-spring-1196623988279008-2.pdf?response-content-disposition=attachment&amp;Signature=62C8srWj2ym85CqN53aBzy3G2a0%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>12968</ID>
+  <Title>Maven: Convention over Configuration</Title>
+  <Description>Slides presented at the first Roma Javaday (Italy).</Description>
+  <Status>2</Status>
+  <Username>vschiavoni</Username>
+  <URL>http://www.slideshare.net/vschiavoni/maven-convention-over-configuration</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/maven-convention-over-configuration-11634-thumbnail.jpg?1165137555</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/maven-convention-over-configuration-11634-thumbnail-2.jpg?1165137555</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse12968&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=maven-convention-over-configuration-11634&amp;stripped_title=maven-convention-over-configuration&amp;userName=vschiavoni&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse12968&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=maven-convention-over-configuration-11634&amp;stripped_title=maven-convention-over-configuration&amp;userName=vschiavoni&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/vschiavoni/maven-convention-over-configuration&quot; title=&quot;Maven: Convention over Configuration&quot;&gt;Maven: Convention over Configuration&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/vschiavoni&quot;&gt;vschiavoni&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sun Dec 03 03:19:15 -0600 2006</Created>
+  <Updated>Sun Dec 03 03:19:15 -0600 2006</Updated>
+  <Language>it</Language>
+  <Format>odp</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/maven-convention-over-configuration-11634.odp?response-content-disposition=attachment&amp;Signature=TwDC5vu3ZiJHC%2BI9PPVLIWRPv98%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>191246</ID>
+  <Title>Roma Meta Framework Concepts @JavaDay Rome 2007</Title>
+  <Description>Roma Meta Framework concepts</Description>
+  <Status>2</Status>
+  <Username>lvca</Username>
+  <URL>http://www.slideshare.net/lvca/roma-meta-framework-concepts-javaday-rome-2007</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/roma-meta-framework-concepts-javaday-rome-2007-1196762911766183-3-thumbnail.jpg?1196755712</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/roma-meta-framework-concepts-javaday-rome-2007-1196762911766183-3-thumbnail-2.jpg?1196755712</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse191246&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=roma-meta-framework-concepts-javaday-rome-2007-1196762911766183-3&amp;stripped_title=roma-meta-framework-concepts-javaday-rome-2007&amp;userName=lvca&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse191246&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=roma-meta-framework-concepts-javaday-rome-2007-1196762911766183-3&amp;stripped_title=roma-meta-framework-concepts-javaday-rome-2007&amp;userName=lvca&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/lvca/roma-meta-framework-concepts-javaday-rome-2007&quot; title=&quot;Roma Meta Framework Concepts @JavaDay Rome 2007&quot;&gt;Roma Meta Framework Concepts @JavaDay Rome 2007&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/lvca&quot;&gt;Luca Garulli&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Tue Dec 04 02:08:32 -0600 2007</Created>
+  <Updated>Tue Dec 04 02:08:32 -0600 2007</Updated>
+  <Language>en</Language>
+  <Format>odp</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/roma-meta-framework-concepts-javaday-rome-2007-1196762911766183-3.odp?response-content-disposition=attachment&amp;Signature=pALNt8R46dz6tWZU8TMunyIbA40%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>142806</ID>
+  <Title>Using DAOs without implementing them</Title>
+  <Description>With Parancoe (www.parancoe.org) You can define and use your DAOs without implementing them. This speeds up the development of your application and the satisfaction of the developers. This presentation was held at the JavaDay in Torino, the October 20, 2007.</Description>
+  <Status>2</Status>
+  <Username>benfante</Username>
+  <URL>http://www.slideshare.net/benfante/using-daos-without-implementing-them</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/using-daos-without-implementing-them-1193116570658927-4-thumbnail.jpg?1193109371</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/using-daos-without-implementing-them-1193116570658927-4-thumbnail-2.jpg?1193109371</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse142806&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=using-daos-without-implementing-them-1193116570658927-4&amp;stripped_title=using-daos-without-implementing-them&amp;userName=benfante&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse142806&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=using-daos-without-implementing-them-1193116570658927-4&amp;stripped_title=using-daos-without-implementing-them&amp;userName=benfante&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/benfante/using-daos-without-implementing-them&quot; title=&quot;Using DAOs without implementing them&quot;&gt;Using DAOs without implementing them&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/benfante&quot;&gt;benfante&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Mon Oct 22 22:16:11 -0500 2007</Created>
+  <Updated>Mon Oct 22 22:16:11 -0500 2007</Updated>
+  <Language>en</Language>
+  <Format>odp</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/using-daos-without-implementing-them-1193116570658927-4.odp?response-content-disposition=attachment&amp;Signature=vNr%2FpwI1P2OQC4R4WF3YZeVE1o0%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>188919</ID>
+  <Title>JRuby e DSL</Title>
+  <Description>Panoramica sui DSL e sul loro utilizzo con i linguaggi dinamici.</Description>
+  <Status>2</Status>
+  <Username>jodosha</Username>
+  <URL>http://www.slideshare.net/jodosha/jruby-e-dsl</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/jruby-e-dsl-1196605069100526-3-thumbnail.jpg?1196597870</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/jruby-e-dsl-1196605069100526-3-thumbnail-2.jpg?1196597870</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse188919&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jruby-e-dsl-1196605069100526-3&amp;stripped_title=jruby-e-dsl&amp;userName=jodosha&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse188919&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jruby-e-dsl-1196605069100526-3&amp;stripped_title=jruby-e-dsl&amp;userName=jodosha&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jodosha/jruby-e-dsl&quot; title=&quot;JRuby e DSL&quot;&gt;JRuby e DSL&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/jodosha&quot;&gt;jodosha&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sun Dec 02 06:17:50 -0600 2007</Created>
+  <Updated>Sun Dec 02 06:17:50 -0600 2007</Updated>
+  <Language>it</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/jruby-e-dsl-1196605069100526-3.pdf?response-content-disposition=attachment&amp;Signature=gd3rId36pRLDjmUFkbtaP7RAKkU%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>140584</ID>
+  <Title>Confronto fra web services framework (open source)</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>alagna</Username>
+  <URL>http://www.slideshare.net/alagna/confronto-fra-web-services-framework-open-source</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/confronto-fra-web-services-framework-open-source-1192907748825468-1-thumbnail.jpg?1192900550</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/confronto-fra-web-services-framework-open-source-1192907748825468-1-thumbnail-2.jpg?1192900550</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse140584&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=confronto-fra-web-services-framework-open-source-1192907748825468-1&amp;stripped_title=confronto-fra-web-services-framework-open-source&amp;userName=alagna&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse140584&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=confronto-fra-web-services-framework-open-source-1192907748825468-1&amp;stripped_title=confronto-fra-web-services-framework-open-source&amp;userName=alagna&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/alagna/confronto-fra-web-services-framework-open-source&quot; title=&quot;Confronto fra web services framework (open source)&quot;&gt;Confronto fra web services framework (open source)&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/alagna&quot;&gt;Alberto Lagna&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sat Oct 20 12:15:50 -0500 2007</Created>
+  <Updated>Sat Oct 20 12:15:50 -0500 2007</Updated>
+  <Language>it</Language>
+  <Format>ppt</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/confronto-fra-web-services-framework-open-source-1192907748825468-1.ppt?response-content-disposition=attachment&amp;Signature=XDAzLNItUkm3V63G%2FPJ5EDWp5l4%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>189757</ID>
+  <Title>RubyOnRails@RomeJavaDay</Title>
+  <Description>This the RubyOnRails presentation I did at the Rome JavaDay on Dec 01, 2007. I Use the Takahashi presentation style, very minimalistic so you cannot get many info from it...</Description>
+  <Status>2</Status>
+  <Username>paolo.dona</Username>
+  <URL>http://www.slideshare.net/paolo.dona/rubyonrailsromejavaday</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/rubyonrailsromejavaday-1196675407176367-4-thumbnail.jpg?1196668208</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/rubyonrailsromejavaday-1196675407176367-4-thumbnail-2.jpg?1196668208</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse189757&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=rubyonrailsromejavaday-1196675407176367-4&amp;stripped_title=rubyonrailsromejavaday&amp;userName=paolo.dona&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse189757&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=rubyonrailsromejavaday-1196675407176367-4&amp;stripped_title=rubyonrailsromejavaday&amp;userName=paolo.dona&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/paolo.dona/rubyonrailsromejavaday&quot; title=&quot;RubyOnRails@RomeJavaDay&quot;&gt;RubyOnRails@RomeJavaDay&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/paolo.dona&quot;&gt;Paoo Dona&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Mon Dec 03 01:50:08 -0600 2007</Created>
+  <Updated>Mon Dec 03 01:50:08 -0600 2007</Updated>
+  <Language>it</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/rubyonrailsromejavaday-1196675407176367-4.pdf?response-content-disposition=attachment&amp;Signature=GtM%2FXYgHBIjGpEvISXUSCWgJJxc%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>220320</ID>
+  <Title>SpagoBI - the Business Intelligence Free Platform</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>davide.zerbetto</Username>
+  <URL>http://www.slideshare.net/davide.zerbetto/spagobi-the-business-intelligence-free-platform</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/spagobi-the-business-intelligence-free-platform-1199696754603865-4-thumbnail.jpg?1199689555</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/spagobi-the-business-intelligence-free-platform-1199696754603865-4-thumbnail-2.jpg?1199689555</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse220320&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=spagobi-the-business-intelligence-free-platform-1199696754603865-4&amp;stripped_title=spagobi-the-business-intelligence-free-platform&amp;userName=davide.zerbetto&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse220320&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=spagobi-the-business-intelligence-free-platform-1199696754603865-4&amp;stripped_title=spagobi-the-business-intelligence-free-platform&amp;userName=davide.zerbetto&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/davide.zerbetto/spagobi-the-business-intelligence-free-platform&quot; title=&quot;SpagoBI - the Business Intelligence Free Platform&quot;&gt;SpagoBI - the Business Intelligence Free Platform&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/davide.zerbetto&quot;&gt;davide.zerbetto&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Mon Jan 07 01:05:55 -0600 2008</Created>
+  <Updated>Mon Jan 07 01:05:55 -0600 2008</Updated>
+  <Language>en</Language>
+  <Format>odp</Format>
+  <Download>0</Download>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>952929</ID>
+  <Title>Annotated controllers with Spring MVC 2.5</Title>
+  <Description>How to write controller using Java 5 annotations with Spring MVC 2.5.</Description>
+  <Status>2</Status>
+  <Username>benfante</Username>
+  <URL>http://www.slideshare.net/benfante/annotated-controllers-with-spring-mvc-25-presentation</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/springmvccontrollers-1232960148869673-3-thumbnail.jpg?1233062744</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/springmvccontrollers-1232960148869673-3-thumbnail-2.jpg?1233062744</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse952929&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=springmvccontrollers-1232960148869673-3&amp;stripped_title=annotated-controllers-with-spring-mvc-25-presentation&amp;userName=benfante&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse952929&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=springmvccontrollers-1232960148869673-3&amp;stripped_title=annotated-controllers-with-spring-mvc-25-presentation&amp;userName=benfante&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/benfante/annotated-controllers-with-spring-mvc-25-presentation&quot; title=&quot;Annotated controllers with Spring MVC 2.5&quot;&gt;Annotated controllers with Spring MVC 2.5&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/benfante&quot;&gt;benfante&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Mon Jan 26 02:58:53 -0600 2009</Created>
+  <Updated>Tue Jan 27 07:25:44 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/springmvccontrollers-1232960148869673-3.pdf?response-content-disposition=attachment&amp;Signature=AN%2FbfBC5crADO6IoBT8jSfUtxVw%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>952797</ID>
+  <Title>Maven 2 in the real world</Title>
+  <Description>How to effectively employ Maven2 on large scale projects</Description>
+  <Status>2</Status>
+  <Username>carlo.bonamico</Username>
+  <URL>http://www.slideshare.net/carlo.bonamico/maven-2-in-the-real-world-presentation</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/javaday2009carlobonamicomaven203-1232952925826657-2-thumbnail.jpg?1232953063</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/javaday2009carlobonamicomaven203-1232952925826657-2-thumbnail-2.jpg?1232953063</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse952797&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javaday2009carlobonamicomaven203-1232952925826657-2&amp;stripped_title=maven-2-in-the-real-world-presentation&amp;userName=carlo.bonamico&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse952797&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javaday2009carlobonamicomaven203-1232952925826657-2&amp;stripped_title=maven-2-in-the-real-world-presentation&amp;userName=carlo.bonamico&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/carlo.bonamico/maven-2-in-the-real-world-presentation&quot; title=&quot;Maven 2 in the real world&quot;&gt;Maven 2 in the real world&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/carlo.bonamico&quot;&gt;carlo.bonamico&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Mon Jan 26 00:57:24 -0600 2009</Created>
+  <Updated>Mon Jan 26 00:57:43 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/javaday2009carlobonamicomaven203-1232952925826657-2.pdf?response-content-disposition=attachment&amp;Signature=rIzgH9WuZw77Bg0m6jBjntXSNq0%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>2339283</ID>
+  <Title>Introduction To Grails</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>suntzu</Username>
+  <URL>http://www.slideshare.net/suntzu/introduction-to-grails</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/introductiontograilsv2-091024230405-phpapp02-thumbnail.jpg?1256444051</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/introductiontograilsv2-091024230405-phpapp02-thumbnail-2.jpg?1256444051</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse2339283&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=introductiontograilsv2-091024230405-phpapp02&amp;stripped_title=introduction-to-grails&amp;userName=suntzu&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse2339283&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=introductiontograilsv2-091024230405-phpapp02&amp;stripped_title=introduction-to-grails&amp;userName=suntzu&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/suntzu/introduction-to-grails&quot; title=&quot;Introduction To Grails&quot;&gt;Introduction To Grails&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/suntzu&quot;&gt;Paolo Foletto&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sat Oct 24 23:03:56 -0500 2009</Created>
+  <Updated>Sat Oct 24 23:14:11 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/introductiontograilsv2-091024230405-phpapp02.pdf?response-content-disposition=attachment&amp;Signature=OQ0KbRvvzRrJBafDPvrXr5AD6zw%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>2339901</ID>
+  <Title>Spring: usarlo conviene, ma usalo bene!</Title>
+  <Description>Le tecniche di Inversion of Control (IoC), e in particolare quelle di Dependency Injection (DI), si sono rivelate nel corso di anni utilissime per scrivere applicazioni ben organizzate, manutenibili e testabili. Per questa ragione lo Spring Framework, alla cui base ci sono proprio tali tecniche, &#232; diventato una presenza quasi obbligatoria nella maggior parte delle applicazioni.
+
+    Come molte tecnologie, se usate bene hanno vantaggi innegabili. I problemi sorgono quando vengono usate senza alcun controllo da sviluppatori inesperti, che le usano senza alcuna consapevolezza, generando effetti totalmente dannosi all&#8217;applicazione e, soprattutto, al processo di sviluppo.
+
+    In questa presentazione verr&#224; innanzitutto introdotto lo Spring Framework, mostrandone le caratteristiche di base, e le utilissime capacit&#224; di integrazione di svariate tecnologie. Successivamente verranno mostrati esempi di cattivo e buon utilizzo, cercando di fornire delle linee guida che indirizzino anche i programmatori meno esperti verso la strada corretta.</Description>
+  <Status>2</Status>
+  <Username>benfante</Username>
+  <URL>http://www.slideshare.net/benfante/spring-usarlo-conviene-ma-usalo-bene</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/springusalobene-091025022545-phpapp02-thumbnail.jpg?1256456542</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/springusalobene-091025022545-phpapp02-thumbnail-2.jpg?1256456542</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse2339901&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=springusalobene-091025022545-phpapp02&amp;stripped_title=spring-usarlo-conviene-ma-usalo-bene&amp;userName=benfante&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse2339901&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=springusalobene-091025022545-phpapp02&amp;stripped_title=spring-usarlo-conviene-ma-usalo-bene&amp;userName=benfante&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/benfante/spring-usarlo-conviene-ma-usalo-bene&quot; title=&quot;Spring: usarlo conviene, ma usalo bene!&quot;&gt;Spring: usarlo conviene, ma usalo bene!&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/benfante&quot;&gt;benfante&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sun Oct 25 02:25:39 -0500 2009</Created>
+  <Updated>Sun Oct 25 02:42:22 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/springusalobene-091025022545-phpapp02.pdf?response-content-disposition=attachment&amp;Signature=FEuQTaCy6Dk%2Blj2k6%2F9v0BeCyb4%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>2339898</ID>
+  <Title>Java e i database: da JDBC a JPA</Title>
+  <Description>La persistenza dei dati &#232; una caratteristica fondamentale di ogni applicazione, e quasi sempre la scelta ricade sull&#8217;utilizzo di un database relazionale. Java, fin dalle sue prime versioni, ha avuto a disposizione la libreria JDBC per accedere a tale tipo di database. In questa presentazione si mostrer&#224; come utilizzare la libreria JDBC, mostrandone pregi e limiti. In seguito si mostrer&#224; l&#8217;utilizzo tradizionale di Hibernate, forse il pi&#249; famoso e diffuso degli Object/Relational Mapper (ORM), che permettono di trattare i dati relazionali inserendoli all&#8217;interno di oggetti. Infine si introdurr&#224; la Java Persistence API (JPA), la libreria di persistenza ORM introdotta con la Java Enterprise Edition (JEE) 5.</Description>
+  <Status>2</Status>
+  <Username>benfante</Username>
+  <URL>http://www.slideshare.net/benfante/java-e-i-database-da-jdbc-a-jpa</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/javaeidatabase-091025022342-phpapp02-thumbnail.jpg?1256456481</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/javaeidatabase-091025022342-phpapp02-thumbnail-2.jpg?1256456481</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse2339898&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javaeidatabase-091025022342-phpapp02&amp;stripped_title=java-e-i-database-da-jdbc-a-jpa&amp;userName=benfante&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse2339898&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javaeidatabase-091025022342-phpapp02&amp;stripped_title=java-e-i-database-da-jdbc-a-jpa&amp;userName=benfante&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/benfante/java-e-i-database-da-jdbc-a-jpa&quot; title=&quot;Java e i database: da JDBC a JPA&quot;&gt;Java e i database: da JDBC a JPA&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/benfante&quot;&gt;benfante&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sun Oct 25 02:23:36 -0500 2009</Created>
+  <Updated>Sun Oct 25 02:41:21 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/javaeidatabase-091025022342-phpapp02.pdf?response-content-disposition=attachment&amp;Signature=j8kfLY%2B2IkyBpzQJUh%2F4eaXrlYA%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>2346848</ID>
+  <Title>Got bored by the relational database? Switch to a RDF store!</Title>
+  <Description>Il database relazionale basato su SQL &#232; da decenni una costante nella gran parte delle architetture software enterprise. Ha resistito a cambiamenti epocali, come il passaggio dal procedurale all&#8217;object oriented, e all&#8217;avvento di vari linguaggi di programmazione. Eppure il suo modello operativo non &#232; immediatamente adattabile a quello delle altre parti delle architetture: &#232; ben nota la presenza dell&amp;rsquo; &#8220;impedenza OO-RDBMS&#8221; e tutta una serie di strumenti (i mappatori O/R) sono stati appositamente sviluppati per alleviare il problema. Strumenti che, generalmente, sono fortemente amati o fortemente odiati da architetti e sviluppatori. Nonostante queste asperit&#224;, il database SQL &#232; apprezzato perch&#233; supporta il modello ACID, ha un comportamento prevedibile, il SQL &#232; conosciuto praticamente da tutti, &#232; relativamente facile svolgere i lavori amministrativi.
+
+    Sar&#224; cos&#236; anche per il prossimo decennio? Negli ultimi tempi, molti articoli e blog hanno iniziato ad incrinare la fama di intangibilit&#224; del database SQL; uno degli argomenti pi&#249; gettonati &#232; relativo al grid e cloud computing, per i quali sono state proposte alternative (come p.es. BigTable di Google). In questa presentazione, tuttavia, faremo ancora riferimento ad un&#8217;architettura a strati tradizionale, dove il problema del database SQL da risolvere &#232; la rigidit&#224; dello schema dati. Considereremo infatti un&#8217;applicazione web reale che rappresenta una base di conoscenza la cui struttura deve evolvere nel corso del tempo; con un database SQL, questo implicherebbe aggiungere colonne a tabelle esistenti e create nuove tabelle &#8211; un&#8217;operazione non supportata dalla maggioranza dei mappatori O/R, che necessiterebbe la ricompilazione del codice.
+
+    La soluzione usata in questo scenario &#232; uno &#8220;store RDF&#8221;. RDF (Resource Description Framework) &#232; un approccio di rappresentazione dell&#8217;informazione completamente diverso dal modello relazionale del SQL. Esso consiste in triple &#8220;soggetto-predicato-oggetto&#8221;, omogenee tra loro. Pertanto, sia l&#8217;equivalente di &#8220;aggiungere una nuova colonna&#8221; o &#8220;una nuova tabella&#8221; in RDF equivale ad aggiungere una tripla &#8211; non un&#8217;operazione amministrativa, ma un passo del normale flusso operativo. Si noti che RDF &#232; noto per essere alla base del Web Semantico, concetto che tuttavia non fa parte di questa presentazione, il cui focus &#232; descrivere uno store RDF come un &#8220;miglior database&#8221;.
+
+    Dopo la parte introduttiva, verranno illustrati concetti pratici: implementazioni esistenti (OpenRDF), come si affronta il problema della conversione oggetti &#8211; triple, come implementare le transazioni e cos&#236; via. Verranno illustrati schemi architetturali e esempi di codice riferiti ad un&#8217;applicazione reale open source; verranno infine affrontati una serie di problemi aperti relativi a questa scelta architetturale.</Description>
+  <Status>2</Status>
+  <Username>benfante</Username>
+  <URL>http://www.slideshare.net/benfante/got-bored-by-the-relational-database-switch-to-a-rdf-store</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/javadayverona2009-semantic-091026030309-phpapp01-thumbnail.jpg?1256544211</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/javadayverona2009-semantic-091026030309-phpapp01-thumbnail-2.jpg?1256544211</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse2346848&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javadayverona2009-semantic-091026030309-phpapp01&amp;stripped_title=got-bored-by-the-relational-database-switch-to-a-rdf-store&amp;userName=benfante&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse2346848&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javadayverona2009-semantic-091026030309-phpapp01&amp;stripped_title=got-bored-by-the-relational-database-switch-to-a-rdf-store&amp;userName=benfante&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/benfante/got-bored-by-the-relational-database-switch-to-a-rdf-store&quot; title=&quot;Got bored by the relational database? Switch to a RDF store!&quot;&gt;Got bored by the relational database? Switch to a RDF store!&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/benfante&quot;&gt;benfante&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Mon Oct 26 03:03:07 -0500 2009</Created>
+  <Updated>Mon Oct 26 03:03:31 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/javadayverona2009-semantic-091026030309-phpapp01.pdf?response-content-disposition=attachment&amp;Signature=c0w0gfDl3ErRbFVmmqY16W1Sg6U%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+<Slideshow>
+  <ID>3031113</ID>
+  <Title>Javaday2010 - Jvm Power Tools - What is my JVM doing?</Title>
+  <Description>We are so used to Java that we often forget what&amp;rsquo;s required behind the scenes to give us robustness, security, platform independence, performance, rich APIs and commercial/open source ecosystem.
+
+But it is interesting (and sometimes necessary) to get a deeper look at what&amp;rsquo;s happening behind the scenes... The JVM gives us powerful tools to monitor, debug, tune &amp;amp; troubleshoot its internal mechanisms, including the Garbage Collector and dynamic Just in Time compiler</Description>
+  <Status>2</Status>
+  <Username>carlo.bonamico</Username>
+  <URL>http://www.slideshare.net/carlo.bonamico/javaday2010-jvm-power-tools-what-is-my-jvm-doing</URL>
+  <ThumbnailURL>//cdn.slidesharecdn.com/ss_thumbnails/javaday2010-carlobonamico-jvmpowertools-100130074643-phpapp01-thumbnail.jpg?1264859865</ThumbnailURL>
+  <ThumbnailSmallURL>//cdn.slidesharecdn.com/ss_thumbnails/javaday2010-carlobonamico-jvmpowertools-100130074643-phpapp01-thumbnail-2.jpg?1264859865</ThumbnailSmallURL>
+  <Embed>&lt;object id=&quot;__sse3031113&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javaday2010-carlobonamico-jvmpowertools-100130074643-phpapp01&amp;stripped_title=javaday2010-jvm-power-tools-what-is-my-jvm-doing&amp;userName=carlo.bonamico&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;/&gt;&lt;embed name=&quot;__sse3031113&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javaday2010-carlobonamico-jvmpowertools-100130074643-phpapp01&amp;stripped_title=javaday2010-jvm-power-tools-what-is-my-jvm-doing&amp;userName=carlo.bonamico&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; wmode=&quot;transparent&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/carlo.bonamico/javaday2010-jvm-power-tools-what-is-my-jvm-doing&quot; title=&quot;Javaday2010 - Jvm Power Tools - What is my JVM doing?&quot;&gt;Javaday2010 - Jvm Power Tools - What is my JVM doing?&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/carlo.bonamico&quot;&gt;carlo.bonamico&lt;/a&gt;&lt;/strong&gt;.&lt;/div&gt;</Embed>
+  <Created>Sat Jan 30 07:46:35 -0600 2010</Created>
+  <Updated>Sat Jan 30 07:57:45 -0600 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/javaday2010-carlobonamico-jvmpowertools-100130074643-phpapp01.pdf?response-content-disposition=attachment&amp;Signature=LXgFSdJBJJKMongoettKz3mZ3fc%3D&amp;Expires=1345982337&amp;AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+</Slideshow>
+</Group>
