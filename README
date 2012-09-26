@@ -1,5 +1,5 @@
-A sample for the Typesafe Stack (http://typesafe.com/stack).
+# SlideShare API for Scala
 
-Scala sample project using Scala and SBT.
+ssapi4s is a simple Scala wrapper for [SlideShare API](http://www.slideshare.net/developers).
 
-To run and test it use SBT invoke: 'sbt run'
+
